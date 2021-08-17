@@ -1,2 +1,7 @@
 # CS210_Portfolio
 SNHU CS 210 Programming Languages Portfolio
+
+The project I created for the CS210 course did several things. First, I generated code in C++ that took in some input from a text file and stored it in C++.
+Afterward, I utilized C++ to develop a menu, where it would show the list of items, how many times they were purchased, an item and how many times it was purchased, and a histogram. I felt that my code was executed well overall, in that it was concise and I didn't run into too many errors. I think what I would like to do in the future is understand more routes for error checking in the program. I wasn't always sure of the best method to extract the information from the text document so more opportunity in that would be nice. The code wasn't so difficult overall but I struggled with the Python integration once again. My attemps to rewrite the Python code didn't seem
+to go well, and I wonder how much of that could've been mitigated had I better understood the code developed to integrate the languages in the first place. I felt that
+was rather a misstep and students could have been better supported in that manner. Regardless, I still learned a bit about code structure and developing a program. I utilized more pen and paper ideation than I previously did with other programs. Ultimately, comments will help a program be maintainable, but also having economy of coding language (no useless lines), easy to utilize and well-documented with comments.
